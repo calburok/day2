@@ -1,0 +1,15 @@
+.selected {
+  color: black;
+  background-color: white;
+  border-radius: 15px;
+  border: 0.3px solid gray;
+  padding: 4px 12px 4px 12px;
+}
+
+.unselected {
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 15px;
+  color: white;
+  padding: 4px 12px 4px 12px;
+}

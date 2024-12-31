@@ -1,0 +1,16 @@
+.kim {
+  color: #80b7e6;
+  background-color: white;
+  border-radius: 7px;
+  border-color: #80b7e6;
+  border-width: 5px;
+  padding: 1%;
+}
+.bae {
+  color: #80b7e6; /* radix color 사이트에서 색상 추출 */
+  background-color: white;
+  border-radius: 7px;
+  border-color: #80b7e6;
+  border-width: 5px;
+  padding: 1%;
+}

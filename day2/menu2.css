@@ -1,0 +1,7 @@
+.c1 {
+  background-color: black;
+  padding: 15px 0px 15px 10px;
+  color: white;
+  width: 360px;
+  margin-bottom: 2px; /* 객체사이 간격 생성 */
+}

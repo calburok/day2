@@ -1,0 +1,32 @@
+.bt1 {
+  background-color: #6e56cf;
+  color: white;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  width: 340px;
+  height: 40px;
+  padding: 20px 10px 5px 30px;
+  font-weight: 400;
+}
+
+.bt2 {
+  background-color: black;
+  color: white;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  width: 340px;
+  height: 40px;
+  padding: 20px 10px 5px 30px;
+  font-weight: 400;
+}
+
+.bt3 {
+  background-color: #6e56cf;
+  color: white;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  width: 340px;
+
+  padding: 20px 10px 20px 30px;
+  font-weight: 400;
+}

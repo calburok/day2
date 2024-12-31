@@ -1,0 +1,15 @@
+.won {
+  background-color: #35c5f1;
+  border: 1px solid #35c5f1;
+  border-radius: 15px;
+  color: white;
+  padding: 4px 10px 4px 10px;
+}
+
+.los {
+  background-color: #e6e6e6;
+  border: 1px solid #e6e6e6; /* 굵기 선종류 색상 순으로 입력*/
+  border-radius: 15px;
+  padding: 4px 10px 4px 10px; /*글과 배경 간격*/
+  color: black;
+}

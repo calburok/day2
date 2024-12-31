@@ -1,0 +1,15 @@
+.b1 {
+  background-color: black;
+  color: white;
+
+  height: 100px;
+  width: 360px;
+  text-align: left;
+}
+
+.b2 {
+  background-color: #e6e6e6;
+
+  height: 3px;
+  width: 360px;
+}
